@@ -15,7 +15,7 @@ namespace WindLang
         public enum TokenType
         {
             LParen,RParen,LBracket,RBracket,LBrace,RBrace,Id,IntegerLiteral,StringLiteral,FloatLiteral,Use,Fn,Assign,LE,GE,Less,Greater,Equal,NotEq,True,False,Return,And,Or,Xor,Not,Break,
-            Continue,In,If,Else,While,For,Try,Except,Finally,Assert,
+            Continue,In,If,Else,While,For,Try,Except,Finally,Assert,Add,Minus,Multiply,Divide,AddInPlace,MinusInPlace,MultiplyInPlace,DivideInPlace,
         }
         
         public class Token
