@@ -1,0 +1,2 @@
+# WindLang
+a stupid project
